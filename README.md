@@ -9,3 +9,5 @@ Jpa and Hibernate
 Users authentication
 
 One to Many
+
+CRUD
